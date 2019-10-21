@@ -3,7 +3,7 @@
  * @Author: GuoQin
  * @Date: 2019-10-21 22:35:42
  * @LastEditors: GuoQin
- * @LastEditTime: 2019-10-21 23:05:36
+ * @LastEditTime: 2019-10-21 23:57:42
  -->
 # webpack-plugin-replace-api
 
@@ -14,7 +14,7 @@
 ### 使用方式
 
 ```javascript
-import WebpackPluginReplaceApi from 'webpack-plugin-replace-api';
+const WebpackPluginReplaceApi = require('webpack-plugin-replace-api');
 
 const ReplaceApiOptions = [
     {
