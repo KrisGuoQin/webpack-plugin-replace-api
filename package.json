@@ -17,5 +17,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KrisGuoQin/webpack-plugin-replace-api.git"
-  }
+  },
+  "bugs": "https://github.com/KrisGuoQin/webpack-plugin-replace-api/issues",
+  "homepage": "https://github.com/KrisGuoQin/webpack-plugin-replace-api#readme"
 }

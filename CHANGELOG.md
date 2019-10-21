@@ -3,8 +3,10 @@
  * @Author: GuoQin
  * @Date: 2019-10-21 23:00:26
  * @LastEditors: GuoQin
- * @LastEditTime: 2019-10-21 23:04:44
+ * @LastEditTime: 2019-10-21 23:41:26
  -->
+## 0.0.2
+* add homepage,bugs in packages.json
 ## 0.0.1
 * add README.md
 ## 0.0.0
