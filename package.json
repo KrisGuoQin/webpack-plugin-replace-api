@@ -1,0 +1,21 @@
+{
+  "name": "webpack-plugin-replace-api",
+  "version": "0.0.1",
+  "description": "a plugin for webpack to replace api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "replace-api"
+  ],
+  "private": false,
+  "author": "krisguoqin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisGuoQin/webpack-plugin-replace-api.git"
+  }
+}
