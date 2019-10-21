@@ -3,7 +3,7 @@
  * @Author: GuoQin
  * @Date: 2019-10-21 21:48:47
  * @LastEditors: GuoQin
- * @LastEditTime: 2019-10-21 22:09:38
+ * @LastEditTime: 2019-10-21 23:54:28
  */
 class ReplaceApi {
     constructor(options) {
@@ -37,4 +37,4 @@ class ReplaceApi {
         })
     }
 }
-export default ReplaceApi
+module.exports = ReplaceApi
