@@ -3,13 +3,13 @@
  * @Author: GuoQin
  * @Date: 2019-10-21 22:35:42
  * @LastEditors: GuoQin
- * @LastEditTime: 2019-10-21 23:57:42
+ * @LastEditTime: 2019-10-22 11:08:25
  -->
 # webpack-plugin-replace-api
 
 项目中的接口地址可能来自多个域名，开发环境可以使用**devServer**配置代理解决。
 一般情况下可以使用判断运行环境的形式，来加上接口的域名信息，可能要写多次的判断。
-所以这里使用webpack插件来解决。
+所以这里使用webpack插件来解决。**(请在充分明白的情况下，谨慎使用)。
 
 ### 使用方式
 

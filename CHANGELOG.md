@@ -3,8 +3,10 @@
  * @Author: GuoQin
  * @Date: 2019-10-21 23:00:26
  * @LastEditors: GuoQin
- * @LastEditTime: 2019-10-22 11:02:05
+ * @LastEditTime: 2019-10-22 11:06:31
  -->
+## 0.0.6
+* change readme
 ## 0.0.5
 * fix not working
 ## 0.0.4
